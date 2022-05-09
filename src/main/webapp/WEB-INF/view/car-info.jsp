@@ -13,7 +13,7 @@
     <br><br>
     Owner<form:input path="owner"  cssStyle="position: absolute;left:6%;"/>
     <br><br>
-    Order<form:input path="service"  cssStyle="position: absolute;left:6%;"/>
+    Order<form:input path="order"  cssStyle="position: absolute;left:6%;"/>
     <div>
     <input type="submit" value="Ok" onclick="window.location.href='allCars'">
     <input type="button" value="Back" onclick="history.back()">

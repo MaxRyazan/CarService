@@ -42,7 +42,7 @@
         <td>${thisCar.number}</td>
         <td>${thisCar.model}</td>
         <td>${thisCar.owner}</td>
-        <td>${thisCar.service}</td>
+        <td>${thisCar.order}</td>
         <td>
             <div>
             <input type="button" value="Update_Info" onclick="window.location.href='${updateButton}'">
